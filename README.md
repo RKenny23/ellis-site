@@ -1,2 +1,4 @@
-# ellis-site
-Ellis the Husky Fanpage
+# Ellis the Husky Fanpage
+
+Basic website to learn some Bootstrap.
+
